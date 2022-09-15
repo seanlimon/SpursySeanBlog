@@ -1,0 +1,167 @@
+html {
+
+    height: 100%;
+}
+
+
+body {
+   
+    
+   padding: 0%;
+   margin: 0%   ;
+}
+
+
+header {
+
+    background-color: blue;
+    height: 20%;
+}
+.header-photo {
+
+
+width: 40%;
+height: auto;
+
+
+}
+
+nav {
+  color: aliceblue;  
+
+text-decoration: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+
+float: right;
+
+padding-right: 2.5in;
+padding-top: .5in;
+
+
+}
+
+li {
+
+
+text-decoration: none;
+font-weight: 400;
+padding: 20px;
+text-transform: uppercase;
+
+display: flex;
+float: right;
+}
+
+.articles,
+.videos,
+.forum {
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+color: black;
+border: 5px transparent white;
+border-radius: 30px;
+background-color: white;
+margin: 5px;
+font-size: 20px;
+
+}
+
+.articles:hover {
+
+    background-color: rgb(127, 127, 245);
+}
+.videos:hover {
+    background-color: rgb(127, 127, 245);
+
+}
+
+.forum:hover {
+
+    background-color: rgb(127, 127, 245);
+}
+    main    {
+
+        position: relative;
+
+        
+    }
+.post1-img{
+
+width: 300px;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.post-title {
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.background {
+background-color: gray;
+opacity: 0.2;
+
+}
+
+.calender {
+width: 20px;
+height: auto;
+padding-left: 14in;
+}
+
+article {
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+margin-left: 3in;
+margin-right: 3in;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.draftkingslink {
+text-decoration: none;
+
+}
+.mypicks {
+
+    width: 590px;
+    height: auto;
+    float: left;
+    }
+.winnerpicks {
+    width: 550px;
+    height: auto;
+    float: right;
+
+}
+
+.mypicksh2 {
+
+padding-left: 2.4in;
+    float: left;
+}
+.winnerspicksh2 {
+
+float: right;
+padding-right: 2in;
+
+}
+
+.earnings1 {
+
+
+    width: 330px;
+    height: auto;
+}
+
+
+
+
+
+

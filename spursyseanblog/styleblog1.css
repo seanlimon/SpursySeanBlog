@@ -1,0 +1,167 @@
+html {
+
+    height: 100%;
+}
+
+
+body {
+    background-color: white;
+    
+   padding: 0%;
+   margin: 0%   ;
+}
+
+
+header {
+
+    background-color: blue;
+    height: 20%;
+}
+.header-photo {
+
+
+width: 40%;
+height: auto;
+
+
+}
+
+nav {
+  color: aliceblue;  
+
+text-decoration: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+
+float: right;
+
+padding-right: 2.5in;
+padding-top: .5in;
+
+
+}
+
+li {
+
+
+    text-decoration: none;
+    font-weight: 400;
+    padding: 20px;
+    text-transform: uppercase;
+    
+    display: flex;
+    float: right;
+    }
+    
+    .articles,
+    .videos,
+    .forum {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    border: 5px transparent white;
+    border-radius: 30px;
+    background-color: white;
+    margin: 5px;
+    font-size: 20px;
+    
+    }
+
+
+
+
+.articles:hover {
+
+    background-color: rgb(127, 127, 245);
+}
+.videos:hover {
+    background-color: rgb(127, 127, 245);
+
+}
+
+.forum:hover {
+
+    background-color: rgb(127, 127, 245);
+}
+    
+
+.content {
+padding-top: 1in;
+width: 90%;
+margin-left: 1in;
+height: auto;
+display: inline-block;
+
+}
+
+.recent-posts-title {
+
+    color: black;
+    border: 3px solid black;
+    width: 35%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.post-photo
+
+{
+
+max-width: 200px;
+height: auto;
+
+}
+
+.main-content {
+
+width: 40%;
+border: 4px solid blue;
+height: 40%;
+position: relative;
+
+
+}
+h2 {
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+font-size: 30px;
+right: 10px;
+}
+.btn {
+ padding: .5rem 1rem;
+ font-size: larger;
+ color: white;
+ background: blue;
+ border: 1px solid transparent;
+ border-radius: .25rem;
+ margin-left: .5in;
+ text-decoration: none;
+}
+
+.main-content .btn {
+
+position: absolute;
+bottom: 10px;
+right: 10px;
+
+}
+.btn:hover {
+   
+    background-color:rgb(127, 127, 245);
+}
+
+.other-posts  {
+
+    width: 20%;
+    float: right;
+    padding:20px;
+    border: 4px solid blue;
+    margin-bottom: 1in;
+    
+}
+
+
+
